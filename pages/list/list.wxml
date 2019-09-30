@@ -1,0 +1,40 @@
+<view class="box">
+  <view class="imgurl">
+      <image src="../../images/4.jpg"></image>
+  </view>
+  <view class="user">
+      <view class="name"><text>董露</text></view>
+      <view class="mobile">
+          <view class="no-1">手机</view>
+          <view class="no-2">17638133619</view>
+          <view class="no-3"><button>拨打</button></view>
+      </view>
+      <view class="mobile">
+          <view>邮箱</view>
+          <view>3142095701@qq.com</view>
+          <view><button>复制</button></view>
+      </view>
+      <view class="mobile">
+          <view>职业</view>
+          <view>Web前端开发工程师</view>
+          <view><button>复制</button></view>
+      </view>
+  </view>
+  <view class="share">
+      <view class="index">
+          <view class="imger"><image src="../../images/4.png"></image></view>
+          <text>生成海报</text>
+      </view>
+      <view>
+          <view class="imger"><image src="../../images/5.png"></image></view>
+          <text>保存电话</text>
+      </view>
+      <view>
+          <view class="imger"><image src="../../images/6.png"></image></view>
+          <text>分享好友</text>
+      </view>
+  </view>
+  <view class="ma">
+      <image src="../../images/1.jpg"></image>
+  </view>
+</view>

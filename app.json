@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/list/list",
+    "pages/card/card",
+    "pages/project/project",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "个人介绍",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "block",
+    "selectedColor": "gray",
+    "list": [
+      {
+        "pagePath": "pages/list/list",
+        "text": "首页",
+        "iconPath": "./images/1.png",
+        "selectedIconPath": "./images/1.png"
+      },
+      {
+        "pagePath": "pages/card/card",
+        "text": "项目",
+        "iconPath": "./images/2.png",
+        "selectedIconPath": "./images/2.png"
+      },
+      {
+        "pagePath": "pages/project/project",
+        "text": "日志",
+        "iconPath": "./images/3.png",
+        "selectedIconPath": "./images/3.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
